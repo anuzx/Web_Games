@@ -1,2 +1,2 @@
 # Web_Games
-fun games to play 
+contains all the games i made using html , css , js 
